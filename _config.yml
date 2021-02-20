@@ -11,11 +11,7 @@ url: "https://shop278909499.taobao.com/?spm=a230r.7195193.1997079397.2.1bb36c7aB
 # 博客是否自动生成目录，false为不生成
 enableToc: true
 
-# Comment
-comment:
-    # livere: MTAyMC81MDk5NC8yNzQ3Ng  # https://www.livere.com
-    disqus: sunnyluo
-    # uyan: 2143225  # 有言id,登录有言官网申请
+
 
 # Social
 social:
@@ -27,16 +23,7 @@ social:
     # twitter: 
     mail: sunnyluo330@gmail.com
 
-# 百度统计 
-# 使用博客模板请去掉或者更换 id 
-baidu:
-    id:  
 
-# Google Analytics
-# 使用博客模板请去掉或者更换 id
-ga:
-    id:  
-    host: auto  
 
 
 # 《----------------- 上面的信息修改成你自己的 ---------------------------》
