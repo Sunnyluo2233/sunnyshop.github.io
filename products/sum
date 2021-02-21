@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<!--[if lte IE 8]> <html class="oldie" lang="en"> <![endif]-->
+<!--[if IE 9]> <html class="ie9" lang="en"> <![endif]-->
+<!--[if gt IE 9]><!--> <html lang="en"> <!--<![endif]-->
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta name="format-detection" content="telephone=no">
+	<link href='http://fonts.googleapis.com/css?family=Varela+Round' rel='stylesheet' type='text/css'>
+	<title>阳光好物推荐</title>
+	<link rel="stylesheet" href="css/fancySelect.css" />
+	<link rel="stylesheet" href="css/uniform.css" />
+	<link rel="stylesheet" href="css/jquery.bxslider.css" />
+	<link href="css/jquery-ui-1.10.4.custom.css" rel="stylesheet">
+	<link rel="stylesheet" href="css/all.css" />
+	<link media="screen" rel="stylesheet" type="text/css" href="css/screen.css" />
+	<!--[if lt IE 9]>
+		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+</head>
+<body>
+	<div id="wrapper">
+		<div class="wrapper-holder">
+			<div class="header-holder">
+				<header id="header">
+					<span class="logo"><a href="index.html">阳光好物推荐</a></span>
+					<div class="tools-nav_holder">
+						<ul class="tools-nav">
+							<li><a href="#">花径不曾缘客扫</a></li>
+							<li><a href="#">蓬门今始为君开</a></li>
+							<li><a href="#">阳光好物推荐</a></li>
+							<li><a href="https://shop278909499.taobao.com/?spm=a217wi.openworkbeanchtmall.sellercard.15.3a036416ORMSDd">阳光好物推荐TB超市入口</a></li>
+						</ul>
+						<div class="checkout">
+							<span>3 products, <span class="pink">$380,50</span></span>
+							<a href="cart.html" class="btn btn_checkout">结算（大雾）</a>
+						</div>
+					</div>
+					<div class="clear"></div>
+					<a class="menu_trigger" href="#">menu</a>
+					<nav id="nav">
+						<ul class="navi">
+							<li class="searc_li" >
+								<div  class="ul_search li">
+									<a class="search" href="#"><span>search</span></a>
+									<form method="get" class="searchform" action="#">
+										<input type="text" class="field" name="s" id="s" placeholder="What are you looking for?" />
+										<input type="submit" class="submit" value=""  />
+										<div class="clear"></div>
+									</form>
+								</div >
+							</li>
+							<li><a href="products.html">琳琅满目</a></li>
+							<li><a href="products.html">无奇不有</a></li>
+							<li><a href="products.html">五花八门</a></li>
+							<li><a href="products.html">包罗万象</a></li>
+							<li><a href="products.html">星罗棋布</a></li>
+						</ul>
+						<div  class="ul_search">
+							<a class="search" href="#"><span>search</span></a>
+							<form method="get" class="searchform" action="#">
+								<input type="text" class="field" name="s" id="s" placeholder="What are you looking for?" />
+								<input type="submit" class="submit" value=""  />
+							</form>
+						</div >
+					</nav>
+				</header>
+			</div>
+			
+			<section class="main">
+				<div class="content">
+					<section class="bar">
+						<div class="bar-frame">
+							<ul class="breadcrumbs">
+								<li><a href="index.html">首页</a></li>
+								<li>产品页</li>
+							</ul>
+						</div>
+					</section>
+					<div class="top-bar">
+						<form class="form-sort" action="#">
+							<fieldset>
+								<div class="row">
+									<label for="sort">排序由 :</label>
+									<select id="sort">
+										<option>价格</option>
+										<option>价格</option>
+									</select>
+								</div>
+								<div class="row">
+									<label for="page">每页产品数:</label>
+									<select id="page">
+										<option>8</option>
+										<option>8</option>
+									</select>
+								</div>
+								<div class="row">
+									<label for="page">产品包装:</label>
+									<select id="page">
+										<option>袋装</option>
+										<option>袋装</option>
+									</select>
+								</div>
+							</fieldset>
+						</form>
+						<ul class="paging">
+							<li class="prev"><a href="#">prev</a></li>
+							<li><a href="#">1</a></li>
+							<li class="active"><a href="#">2</a></li>
+							<li><a href="#">3</a></li>
+							<li><a href="#">4</a></li>
+							<li><a href="#">5</a></li>
+							<li class="next"><a href="#">next</a></li>
+						</ul>
+					</div>
+					<ul class="item-product">
+						<li>
+							<div class="item">
+								<div class="image">
+									<a href="https://item.taobao.com/item.htm?spm=a2oq0.12575281.0.0.18a21debX9wNRR&ft=t&id=636200416922"><img src="images/pic_05.png"  alt="" /></a>
+								</div>
+								<span class="name"><a href="product.html">看价格请点击</a></span>
+								<span <a href="product.html">博主推荐语</a></span>
+							</div>
